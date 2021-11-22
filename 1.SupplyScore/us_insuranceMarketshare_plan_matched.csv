@@ -1,0 +1,169 @@
+﻿id,carrierName,group,marketshare,groupcode
+9,Blue Cross of California,BLUE CROSS OF CALIFORNIA ,0.0020,123470
+143,Security Health Plan,SECURITY HLTH PLAN OF WI INC,0.0010,96881
+124,Premier Health Plan,VIRGINIA PREMIER HLTH PLAN INC,0.0018,95612
+151,HealthNow,HEALTH NOW NY INC ,0.0023,55204
+88,Blue Cross Blue Shield of Arizona,BCBS OF AZ INC,0.0020,53589
+130,BCBS AZ,BCBS OF AZ INC,0.0020,53589
+120,Blue Cross Blue Shield of Rhode Island,BCBS OF RI,0.0014,53473
+105,Independent Health ,INDEPENDENT HLTH ASSN GRP,0.0016,4894
+135,Gundersen Health Plan,UNIVERSITY HLTH CARE & GUNDERSEN LUT,0.0014,4870
+91,Providence Health System,PROVIDENCE HLTH GRP,0.0017,4788
+54,HealthFirst NY,HEALTHFIRST INC GRP ,0.0028,4778
+53,Tufts Health Plan,HEALTH PLAN HOLDINGS INC GRP ,0.0046,4742
+33,Capital District Physicians Health Plan,CDPHP INC GRP ,0.0019,4708
+56,PacificSource,PACIFICSOURCE HLTH PLAN GRP ,0.0023,4704
+24,Blue Cross Blue Shield of Massachusetts,BCBS OF MA GRP,0.0067,3637
+78,Blue Cross Blue Shield of Tennessee,BCBS OF TN GRP,0.0066,3498
+59,PriorityHealth,SPECTRUM HLTH GRP ,0.0041,3383
+132,Spectrum Health,SPECTRUM HLTH GRP ,0.0041,3383
+168,Total Health Plan,SPECTRUM HLTH GRP ,0.0041,3383
+13,Blue Shield of California,BLUE SHIELD OF CA GRP,0.0020,2798
+141,Medica,MEDICA GRP ,0.0036,1552
+79,Molina Healthcare,MOLINA HEALTHCARE INC GRP ,0.0171,1531
+68,UPMC Health Plan,UPMC HLTH SYSTEM GRP ,0.0091,1324
+67,HAP,HENRY FORD HLTH SYSTEM GRP,0.0016,1311
+82,Centene,CENTENE CORP GRP ,0.0600,1295
+100,QualChoice,CENTENE CORP GRP ,0.0600,1295
+152,Homestate,CENTENE CORP GRP ,0.0600,1295
+162,Buckeye,CENTENE CORP GRP ,0.0600,1295
+166,Coordinated Care,CENTENE CORP GRP ,0.0600,1295
+118,Blue Cross of Idaho,BLUE CROSS OF ID GRP,0.0016,1290
+50,HealthPartners - MN,HEALTHPARTNERS GRP ,0.0029,1258
+60,Capital Blue Cross,CAPITAL BLUE CROSS GRP,0.0018,1230
+37,Dominion Dental,CAPITAL BLUE CROSS GRP ,0.0018,1230
+155,Keystone,CAPITAL BLUE CROSS GRP ,0.0018,1230
+129,Paramount,PROMEDICA HLTH SYSTEM GRP ,0.0016,1212
+136,Regence Health Plans,CAMBIA HEALTH SOLUTIONS INC ,0.0047,1207
+20,Horizon Blue Cross Blue Shield,BCBS OF NJ GRP,0.0104,1202
+30,MVP Health Plan,MVP GRP,0.0028,1198
+84,Excellus BlueCross BlueShield,LIFETIME HLTHCARE GRP ,0.0051,1186
+74,Optima Health,SENTARA HLTH MGMT GRP ,0.0023,1183
+81,Geisinger Health Plan,GEISINGER INS GRP ,0.0025,1143
+57,ConnectiCare,EMBLEM HLTH GRP ,0.0063,1127
+89,Emblem Health,EMBLEM HLTH GRP ,0.0063,1127
+41,Premera Blue Cross Blue Shield,PREMERA BLUE CROSS GRP ,0.0035,962
+40,IBC,INDEPENDENCE HLTH GRP INC GRP ,0.0161,936
+51,AmeriHealth,INDEPENDENCE HLTH GRP INC GRP ,0.0161,936
+22,Blue Cross Blue Shield of Illinois,HCSC GRP ,0.0336,917
+3,Cigna,CIGNA HLTH GRP ,0.0254,901
+16,Cigna Dental,CIGNA HLTH GRP ,0.0254,901
+123,SelectHealth,IHC INC GRP,0.0031,880
+15,United Concordia,HIGHMARK GRP,0.0120,812
+55,Highmark Blue Cross Blue Shield,HIGHMARK GRP,0.0120,812
+70,Wellmark,WELLMARK INC GRP,0.0031,770
+49,Blue Cross Blue Shield of North Carolina,BCBS OF NC GRP,0.0070,758
+44,Medical Mutual of Ohio,MEDICAL MUT OF OH GRP ,0.0026,730
+127,Sierra Health,UNITEDHEALTH GRP,0.1413,707
+34,UnitedHealthcare Dental,UNITEDHEALTH GRP,0.1413,707
+147,PacifiCare (UnitedHealthcare),UNITEDHEALTH GRP,0.1413,707
+1,UnitedHealthcare,UNITEDHEALTH GRP,0.1413,707
+21,Oxford (UnitedHealthcare),UNITEDHEALTH GRP,0.1413,707
+73,Rocky Mountain Health Plans,UNITEDHEALTH GRP,0.1413,707
+93,UHC of the River Valley,UNITEDHEALTH GRP,0.1413,707
+8,Anthem,ANTHEM INC GRP ,0.0615,671
+39,Blue Cross Blue Shield of Georgia,ANTHEM INC GRP ,0.0615,671
+153,UniCare,ANTHEM INC GRP ,0.0615,671
+46,Total Dental Administrators,BCBS OF SC GRP,0.0046,661
+87,BCBS South Carolina,CBS OF SC GRP,0.0046,661
+64,Kaiser Permanente,KAISER FOUNDATION GRP ,0.0833,601
+137,Kaiser - MidAtlantic,KAISER FOUNDATION GRP ,0.0833,601
+95,Scott and White,SCOTT & WHITE GRP,0.0012,600
+35,Harvard Pilgrim,HARVARD PILGRIM HLTH CARE GRP ,0.0024,595
+144,Blue Cross Blue Shield of Michigan,BCBS OF MI GRP,0.0117,572
+86,Blue Cross Blue Shield of Alabama,BCBS OF AL GRP,0.0052,570
+25,Blue Cross Blue Shield of Florida,GUIDEWELL MUT HOLDING GRP ,0.0155,536
+114,Presbyterian Health Plan,PRESBYTERIAN HLTHCARE SERV GRP ,0.0028,481
+63,Blue Cross Blue Shield of Minnesota,BCBS OF MN GRP,0.0051,461
+80,Blue Cross Blue Shield of Kansas City,BCBS OF KC GRP,0.0020,430
+26,Guardian Dental,GUARDIAN LIFE GRP ,0.0034,429
+27,CareFirst Blue Cross Blue Shield,CAREFIRST INC GRP ,0.0074,380
+28,Principal Dental,PRINCIPAL FIN GRP,0.0016,332
+23,MetLife,METROPOLITAN GRP,0.0064,241
+4,Humana,HUMANA GRP ,0.0591,119
+36,Humana Dental,HUMANA GRP ,0.0591,119
+94,CompBenefits,HUMANA GRP ,0.0591,119
+2,Aetna,CVS GRP ,0.0552,1
+11,First Health (Coventry Health Care),CVS GRP ,0.0552,1
+12,Coventry Health Care,CVS GRP ,0.0552,1
+119,Aetna Innovation Health,CVS GRP ,0.0552,1
+5,Multiplan,OTHER,0.2443,-9999
+6,Medicare,OTHER,0.2443,-9999
+7,Blue Cross Blue Shield,OTHER,0.2443,-9999
+10,Health Net,OTHER,0.2443,-9999
+14,Medicaid,OTHER,0.2443,-9999
+17,Assurant,OTHER,0.2443,-9999
+18,Delta Dental,OTHER,0.2443,-9999
+19,Empire Blue Cross Blue Shield,OTHER,0.2443,-9999
+29,Blue Cross Blue Shield of Texas,OTHER,0.2443,-9999
+31,Ameritas,OTHER,0.2443,-9999
+32,Dental Network of America,OTHER,0.2443,-9999
+38,DenteMax,OTHER,0.2443,-9999
+42,QualCare,OTHER,0.2443,-9999
+43,AvMed Health,OTHER,0.2443,-9999
+45,Lincoln Financial Dental,OTHER,0.2443,-9999
+47,Connection Dental,OTHER,0.2443,-9999
+48,Moda Health,OTHER,0.2443,-9999
+52,Ambetter Superior Health Plan,OTHER,0.2443,-9999
+58,Blue Cross Blue Shield of Oklahoma,OTHER,0.2443,-9999
+61,HealthLink,OTHER,0.2443,-9999
+62,Health Alliance,OTHER,0.2443,-9999
+65,Sagamore Health Network,OTHER,0.2443,-9999
+66,TRICARE,OTHER,0.2443,-9999
+69,WPS,OTHER,0.2443,-9999
+71,SIHO Insurance Services,OTHER,0.2443,-9999
+72,HMSA,OTHER,0.2443,-9999
+75,HIP of NY,OTHER,0.2443,-9999
+76,Preferred One,OTHER,0.2443,-9999
+77,Encore Health Network,OTHER,0.2443,-9999
+83,CommunityCare,OTHER,0.2443,-9999
+85,Common Ground,OTHER,0.2443,-9999
+90,First Dental Health,OTHER,0.2443,-9999
+92,Network Health Plan,OTHER,0.2443,-9999
+96,LA Care Health,OTHER,0.2443,-9999
+97,SummaCare,OTHER,0.2443,-9999
+98,Imagine Health - SmartCare,OTHER,0.2443,-9999
+99,Liberty Dental,OTHER,0.2443,-9999
+101,Sharp Health Plan,OTHER,0.2443,-9999
+102,Western Health Advantage,OTHER,0.2443,-9999
+103,Group Health Coop,OTHER,0.2443,-9999
+104,HealthSpan,OTHER,0.2443,-9999
+106,Arise Health Plan,OTHER,0.2443,-9999
+107,Aultcare,OTHER,0.2443,-9999
+108,Altius,OTHER,0.2443,-9999
+109,Indiana University,OTHER,0.2443,-9999
+110,Prominence Health Plan,OTHER,0.2443,-9999
+111,The Health Plan of Upper OH,OTHER,0.2443,-9999
+112,Great West,OTHER,0.2443,-9999
+113,PHP Northern IN,OTHER,0.2443,-9999
+115,Vanderbilt Health,OTHER,0.2443,-9999
+116,Health Plan of Nevada,OTHER,0.2443,-9999
+117,Unity Health Insurance,OTHER,0.2443,-9999
+121,Blue Cross Blue Shield of Louisiana,OTHER,0.2443,-9999
+122,FrontPath Health Coalition,OTHER,0.2443,-9999
+125,Healthy Connecticut,OTHER,0.2443,-9999
+126,Blue Cross Blue Shield of New Mexico,OTHER,0.2443,-9999
+128,Scion Dental,OTHER,0.2443,-9999
+131,Hometown Health,OTHER,0.2443,-9999
+133,One Health Network,OTHER,0.2443,-9999
+134,Bluegrass Family Health,OTHER,0.2443,-9999
+138,Diversified Dental,OTHER,0.2443,-9999
+139,Chinese Community Health Plan,OTHER,0.2443,-9999
+140,Cofinity,OTHER,0.2443,-9999
+142,Imagine Health - Innovative Health,OTHER,0.2443,-9999
+145,MagnaCare,OTHER,0.2443,-9999
+146,First Choice Health,OTHER,0.2443,-9999
+148,Coordinated Health Mutual/InHealth OH,OTHER,0.2443,-9999
+149,FirstCare,OTHER,0.2443,-9999
+150,University Family Care,OTHER,0.2443,-9999
+154,Maricopa Health Plan,OTHER,0.2443,-9999
+156,Blue Cross Blue Shield of Wyoming,OTHER,0.2443,-9999
+157,MHealth,OTHER,0.2443,-9999
+158,Healthplex Dental,OTHER,0.2443,-9999
+159,Bridgespan,OTHER,0.2443,-9999
+160,Advantage Health,OTHER,0.2443,-9999
+161,LifeWise,OTHER,0.2443,-9999
+163,Phoenix Healthplan,OTHER,0.2443,-9999
+164,Lovelace Health Plan,OTHER,0.2443,-9999
+165,New Health Ventures - CO,OTHER,0.2443,-9999
+167,HealthPlus MI,OTHER,0.2443,-9999
