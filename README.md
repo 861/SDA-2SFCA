@@ -4,4 +4,7 @@
 2. Next, you can run python scripts which execute the SQL according to the insurance groups;
 3. Here we pre-caculated 'w' the decay weights in OD matrix; 
 
+Update: 
+OD Matrix is available in [Onedrive](https://niuits-my.sharepoint.com/:f:/g/personal/z1854460_students_niu_edu/Es4ijm_ZoepCoctZ-IFfwc4BVIkJVCtrhQ9a9NSMPx5G-Q?e=fY7LZA) 
+
 Paper is available at: https://doi.org/10.1016/j.socscimed.2022.114727
